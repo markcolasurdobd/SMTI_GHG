@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7c71c4-e3d0-430b-b50e-7fcb9fa97abf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predict_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/read_and_transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/train_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/training_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/use_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RFC.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/RFC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SequenceDiff.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ghg_filtered_2023.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ghg_filtered_2024.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/~$FY23 Cat 11 &amp; 12 data for MC 9 29 25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter_df.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FY 2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FY 2023.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/GHG FY24 Data for MC.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/vectorizer.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
