@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7c71c4-e3d0-430b-b50e-7fcb9fa97abf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/make_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/datasets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/predict_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/predict_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/training_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/training_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/train_and_validation_results_21_24.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/validation_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/validation_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/use_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/training.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

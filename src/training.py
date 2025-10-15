@@ -9,7 +9,7 @@ def train_model(X, y):
     X = vectorizer.fit_transform(X)
 
     print("Training model")
-    model = RandomForestClassifier(class_weight='balanced', n_estimators=100, random_state=123)
+    model = RandomForestClassifier(n_estimators=100, random_state=123)
     model.fit(X, y)
     print("Training complete")
     return model, vectorizer
