@@ -1,12 +1,14 @@
-import src.use_model as use_model
-import src.Data as rt
+import src.predicting as pred
 
-# Predict
-FILE_PATH = './data/GHG FY24 Data for MC.xlsx'
-SHEET_NAME = 'FY 24 EXEMPLAR categorizations'
-COLUMNS = 'A, B, F, H, L, M, Q, X'
-HEADER = 2
-new_X = rt.predict_data(FILE_PATH, SHEET_NAME, COLUMNS, HEADER)
-model = use_model.load_model('./models/model.pkl')
-vectorizer = use_model.load_vectorizer('./models/vectorizer.pkl')
-preds = use_model.predict(model, vectorizer, new_X)
+# Load data
+
+# Load model
+model_path = ''
+model = pred.load_model(model_path)
+
+# Load vectorizer
+vec_path = ''
+vectorizer = pred.load_vectorizer(vec_path)
+
+# Make predictions
+preds = pred.predict(model, vectorizer, X)

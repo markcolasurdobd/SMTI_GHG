@@ -1,9 +1,5 @@
 import pickle
 
-# Specify the path to your .pkl file
-model_path = './models/model.pkl'
-vec_path = './models/vectorizer.pkl'
-
 def load_model(model_path):
     print('Loading model')
     with open(model_path, 'rb') as file:

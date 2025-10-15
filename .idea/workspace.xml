@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7c71c4-e3d0-430b-b50e-7fcb9fa97abf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/make_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/make_datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/predict_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/predict_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/training_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/training_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/validation_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/validation_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/train_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/use_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +61,12 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG\src" />
+      <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG\src\scripts" />
       <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="make_datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="datasets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SMTI_GHG" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/make_datasets.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\10354191\PycharmProjects\SMTI_GHG\src\datasets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,6 +117,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/scripts/predict_script.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SMTI_GHG$CategoricalApproach.coverage" NAME="CategoricalApproach Coverage Results" MODIFIED="1758901470193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
