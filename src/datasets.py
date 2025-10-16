@@ -29,13 +29,17 @@ def make_2021():
     return data
 
 def make_2023():
-    FILE_PATH = "./data/FY23 Cat 11 & 12 data for MC 9 29 25.xlsx"
-    SHEET_NAME = ("FY23 Exemplar Categorizations")
-    HEADER = 6
-    COLUMNS = "B, C, D, E, F, G, L"
+    FILE_PATH = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\data\FY23.csv"
     data = ValidationData()
-    data.load_excel(FILE_PATH, SHEET_NAME, HEADER, COLUMNS)
+    data.load_csv(FILE_PATH)
+    data.df.drop([' Act Rev ', ' Act Units ', 'Set ID', 'COMMENTS'], inplace=True, axis=1)
+    replace_seg = {'INT': 'bdi', 'MED': 'bdm', 'LS': 'bls'}
+    data.df.SEG.replace(replace_seg, inplace = True)
     data.transform()
+    data.y.replace({'safety lok (safety wingset)': 'safety wingset'}, inplace = True)
+    drop_idx = data.y[(data.y == 'software') | (data.y == 'ca')].index
+    data.X.drop(drop_idx, inplace=True)
+    data.y.drop(drop_idx, inplace=True)
     return data
 
 def make_master(data: list):
@@ -68,3 +72,4 @@ def split_master(filename='master.csv'):
     df_train.to_csv('./data/train.csv', index=False)
     df_val.to_csv('./data/validation.csv', index=False)
     df_test.to_csv('./data/test.csv', index=False)
+
