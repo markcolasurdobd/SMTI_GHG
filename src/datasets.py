@@ -73,3 +73,10 @@ def split_master(filename='master.csv'):
     df_val.to_csv('./data/validation.csv', index=False)
     df_test.to_csv('./data/test.csv', index=False)
 
+def make_2025():
+    # Make the 2024 dataset
+    path = r"./data/2025.csv"
+    data = TrainData()
+    data.load_csv(path)
+    data.transform()
+    return data
