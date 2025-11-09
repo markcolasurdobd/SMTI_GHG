@@ -1,25 +1,27 @@
 import src.predicting as pred
+from src.data import PredictData
 from src.datasets import make_2023
 import pandas as pd
 
 # Load data
-data = make_2023()
-X = data.X
-y = data.y
+d25 = PredictData()
+d25.load_csv('./data/nan25.csv')
+d25.transform()
+X = d25.X
 
 # Load model
-model_path = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\models\model_21_24.pkl"
+model_path = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\models\model_24.pkl"
 model = pred.load_model(model_path)
 
 # Load vectorizer
-vec_path = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\models\vec_21_24.pkl"
+vec_path = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\models\vec_24.pkl"
 vectorizer = pred.load_vectorizer(vec_path)
 
 # Make predictions
 pred_df = pred.predict(model, vectorizer, X)
 
-from sklearn.metrics import classification_report
-print(classification_report(y, pred_df['preds']))
+# from sklearn.metrics import classification_report
+# print(classification_report(y, pred_df['preds']))
 
 
 # sending to excel

@@ -109,3 +109,35 @@ class ValidationData(Data):
         df.columns = ['features, target', 'prediction']
         # Save to csv
         df.to_csv(path, index=False)
+
+class PredictData(Data):
+    def __init__(self):
+            super().__init__()
+            self.X = None
+            self.preds= None
+
+    def transform(self):
+        super().transform()
+        self.X = pd.Series([self.df.iloc[i, :].str.cat(sep=' ') for i in range(len(self.df))])
+        self.X.index = range(len(self.X))
+
+    def remove_value(self, value: str, from_col: pd.Series):
+        idx_list = []
+        for i, row in enumerate(from_col):
+            if value in row:
+                idx_list.append(i)
+        self.X.drop(index = idx_list, inplace=True)
+
+    def save_to_csv(self, output_dir: str, file_name: str):
+        # Concatenate X, y, and preds into df
+        path = os.path.join(output_dir, file_name)
+        print(f'Saving to {path}')
+        if self.preds is None:
+            print("Saving without preds")
+            df = pd.concat([self.X])
+        else:
+            assert len(self.preds) == len(self.X), "X and preds must be same size"
+            df = pd.concat([self.X, self.preds])
+        df.columns = ['features', 'prediction']
+        # Save to csv
+        df.to_csv(path, index=False)
