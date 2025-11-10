@@ -4,15 +4,11 @@ from sklearn.model_selection import train_test_split
 
 def make_2024():
     # Make the 2024 dataset
-    FILE_PATH = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\data\GHG FY24 Data for MC.xlsx"
-    SHEET_NAME_24 = 'FY 24 EXEMPLAR categorizations'
-    COLUMNS_24 = 'A, B, F, H, L, M, Q, X'
-    HEADER_24 = 2
     data = TrainData()
-    data.load_excel(FILE_PATH, SHEET_NAME_24, HEADER_24, COLUMNS_24)
+    data.load_csv('./data/2024.csv')
     data.transform()
     data.remove_value('blank', data.X)
-    data.replace_substring('exclude')
+    data.remove_value('exclude', data.y)
     return data
 
 def make_2021():

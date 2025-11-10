@@ -23,8 +23,6 @@ class Data:
 
     def transform(self):
         print('Transforming data')
-        # Drop missing or NaN values
-        self.df = self.df.dropna()
         # Convert all values to strings
         self.df = self.df.astype(str)
         # Lower-case all text

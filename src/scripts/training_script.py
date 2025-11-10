@@ -3,6 +3,9 @@ import src.training as tr
 from src.datasets import make_2024
 
 # Read in data
+df = pd.read_csv('./data/2024.csv')
+df.drop(0, inplace = True)
+
 d24 = make_2024()
 exclude = d24.y[d24.y == 'exclude'].index
 d24.X = d24.X.drop(exclude)
