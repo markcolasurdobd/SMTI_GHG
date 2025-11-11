@@ -1,0 +1,814 @@
+,SEG,BU,Platform,Product Category,Product Line,Product Set,CAT 11,preds,probs
+19,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+54,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+60,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+65,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+104,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+133,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+147,BDM,MDS,Hypodermic Products,Safety Hypodermic Products,Blunt Fill Needle / Combo,SYR W BFN LARGE BORE,Plastipak,safety wingset,0.8
+155,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+163,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+192,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+195,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+201,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+261,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+287,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+341,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+348,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+351,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+353,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+355,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+363,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+391,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle,Hypak for Vaccine,hypak for antico,0.43
+410,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+428,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer,Hypak for Vaccine,hypak for antico,0.54
+443,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+452,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+473,BDM,PS,Prefillable Systems,Component,Accuspray,Dose Divider,Plastipak,vacutainer tubes,0.42
+478,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+483,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+508,BDM,MDS,Hypodermic Products,Safety Hypodermic Products,Blunt Fill Needle / Combo,SYR W BFN LARGE BORE,Plastipak,safety wingset,0.8
+511,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+531,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+550,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+557,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,Bulk Luer,Hypak for Vaccine,hypak for antico,0.57
+558,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+565,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+589,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+618,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+645,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+648,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+655,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+670,BDI,SUR,Infection Prevention - Surgical,Hand Hygiene,Scrubs,Scrub Brushes,Plastipak,chloraprep,0.79
+705,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+720,BDM,MDS,Flush & Caps,Prefilled Flush Devices -Conventional,PosiFlush Safescrub,Posiflush - SafeScrub,Chloraprep,plastipak,0.46
+755,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+757,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+796,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+801,BDM,PS,Prefillable Systems,Stopper,Stopper High Tier,BSCF/BCF/BCA Visio.,Hypak for Antico,vacutainer tubes,0.93
+812,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+823,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+835,BDI,UCC,Total Acute Urology,Urological Drainage,Other Urology,Catheter Plugs/Misc,Chloraprep,purewick canister & tubing,0.39
+891,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+893,BDM,PS,Prefillable Systems,Glass Container,Accuspray,SCF Luer,Plastipak,hypak for antico,0.66
+896,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+906,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+934,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+988,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1008,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1055,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+1082,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer,Hypak for Vaccine,hypak for antico,0.54
+1124,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,Bulk Luer,Hypak for Vaccine,hypak for antico,0.57
+1168,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+1178,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+1213,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1214,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+1220,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1264,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1291,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1315,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+1317,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle,Hypak for Vaccine,hypak for antico,0.43
+1327,BDM,MDS,Gravity and Syringe Delivery,GSD Secondary Sets,GSD Secondary Sets - Basic,General,Safety Wingset,vacutainer tubes,1.0
+1349,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+1395,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1414,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,PLUGGO,Veritor Assays,veritor device,0.39
+1467,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+1492,BDI,SUR,Performance Irrigation and Other Surgery,Tepha OEM,Tepha OEM,Tepha OEM,Purewick catheter,chloraprep,0.59
+1561,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1562,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1583,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+1637,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1694,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1699,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,PLUGGO,Veritor Assays,veritor device,0.39
+1702,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1709,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+1723,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1827,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+1828,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer,Hypak for Vaccine,hypak for antico,0.54
+1839,BDI,SUR,Performance Irrigation and Other Surgery,Tepha OEM,Tepha OEM,Tepha OEM,Purewick catheter,chloraprep,0.59
+1956,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+1973,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+1984,BDI,SUR,Performance Irrigation and Other Surgery,Tepha OEM,Tepha OEM,Tepha OEM,Purewick catheter,chloraprep,0.59
+2001,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2003,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+2006,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+2015,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+2049,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+2110,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2146,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+2168,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+2184,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+2270,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+2295,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+2339,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+2392,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2460,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+2476,BDM,PS,Prefillable Systems,Stopper,Stopper High Tier,TSCF/TCF PremiumCoat Visio,Veritor Assays,vacutainer tubes,0.97
+2538,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2551,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2553,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+2554,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2560,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2562,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2565,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+2569,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2603,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2649,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2852,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+2867,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2891,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+2954,BDM,MMS,Alaris System,IV Pump Delivery,Alaris System PCA Sets,Extension (PCA/SYP),Plastipak,safety wingset,0.98
+2963,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3057,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3200,BDM,MDS,IPD OEM,GSD OEM,GSD OEM SmarSite Bag,SmartSite Bag,Vacutainer tubes,plastipak,0.43
+3216,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3225,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.4
+3301,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+3333,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3346,BDM,PS,SAIS,Stopper,Wearable Libertas,SCF Stopper,Hypak for Antico,safety wingset,0.43
+3412,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3465,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3492,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+3504,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+3510,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+3582,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+3619,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3636,BLS,SM,Specimen Acquisition,ABG,ABG Safety,ABG Safety,Safety Wingset,plastipak,0.55
+3680,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3706,BDM,PS,SAIS,Glass Container,Wearable Libertas,SCF barrel Subassembly,Vacutainer tubes,hypak for antico,0.3
+3736,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+3815,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+3844,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,IC-XT,Vacutainer tubes,bactec vials,0.44
+3903,BDM,MDS,IPD OEM,GSD OEM,GSD OEM SmarSite Bag,SmartSite Bag,Vacutainer tubes,plastipak,0.43
+3923,BDM,MDS,IPD OEM,GSD OEM,GSD OEM SmarSite Bag,SmartSite Bag,Vacutainer tubes,plastipak,0.43
+3933,BDI,UCC,Total Acute Urology,Fecal Drainage,Dignishield,Dignishield,Purewick catheter,purewick canister & tubing,0.54
+3946,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+4002,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+4129,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+4175,BDM,MDS,Sharps Disposal Systems,Sharps Disposal Systems,Infectious Waste Collectors,Patient Room Products,Safety Wingset,purewick canister & tubing,0.94
+4278,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,BACTEC vials,powerport,0.6
+4339,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.69
+4354,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4370,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+4415,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+4417,BLS,SM,Specimen Acquisition,ABG,ABG Safety,ABG Safety,Safety Wingset,plastipak,0.55
+4419,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4457,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,BACTEC vials,powerport,0.6
+4512,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+4545,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+4556,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4576,BDM,MMS,IV Solutions,IV Solutions,FreeFlex,Sterile Water,Veritor Assays,chloraprep,0.49
+4593,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose GSV Catheter,BACTEC vials,safety wingset,0.45
+4599,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4656,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+4696,BDM,MDS,IV Access,IVA SmartSite,IVA Extension Sets - SmartSite,SmartSite,Safety Wingset,vacutainer tubes,0.93
+4703,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+4706,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+4790,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4815,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Purewick catheter,safety wingset,0.23
+4883,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4955,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+4956,BLS,SM,Lab Specimen Management,Tubes - Other,Other Tubes & Kits,Veterinary Kits,Vacutainer tubes,hypak for vaccine,0.66
+4957,BDI,UCC,Total Acute Urology,Urological Drainage,Other Urine Collection Devices,W/O Cath W/UM Bag,Purewick catheter,purewick canister & tubing,0.82
+4975,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5046,BDM,MMS,Alaris System,POC Systems,Alaris System PC Unit License,Guardrails,Pyxis,purewick device,0.56
+5059,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+5092,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5203,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+5266,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5308,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle RNS,Hypak for Vaccine,hypak for antico,0.42
+5371,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5413,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5419,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+5440,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+5449,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose GSV Catheter,Purewick device,safety wingset,0.45
+5470,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5474,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5514,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+5529,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+5623,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5690,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5695,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5737,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+5747,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+5767,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+5794,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+5895,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+5900,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6008,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6009,BDI,SUR,Infection Prevention - Surgical,Hand Hygiene,Scrubs,Scrub Brushes,Plastipak,chloraprep,0.79
+6028,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+6041,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Purewick catheter,safety wingset,0.23
+6070,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Vacutainer tubes,safety wingset,0.23
+6186,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6187,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6212,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+6283,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6288,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Purewick catheter,safety wingset,0.23
+6309,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Purewick catheter,safety wingset,0.23
+6411,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6468,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6488,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+6491,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+6510,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6534,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Purewick catheter,safety wingset,0.23
+6540,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6569,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Vacutainer tubes,safety wingset,0.23
+6580,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+6589,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6638,BLS,BDB,Clinical Instruments,FACSVia,FACSVia Options,FACSVia Options,Neopak,pyxis,0.6
+6668,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6677,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Chloraprep,veritor device,0.59
+6678,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6691,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+6703,BDI,UCC,Total Acute Urology,Fecal Drainage,Dignishield,Dignishield,Purewick catheter,purewick canister & tubing,0.54
+6759,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6831,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6869,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6927,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+6931,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+6957,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+6964,BLS,SM,Lab Specimen Management,Tubes - Other,Other Tubes & Kits,Veterinary Kits,Plastipak,hypak for vaccine,0.66
+6993,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7005,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7009,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
+7011,BDI,UCC,Total Acute Urology,Fecal Drainage,Dignishield,Dignishield,Purewick catheter,purewick canister & tubing,0.54
+7040,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7048,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+7110,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Plastipak,safety wingset,0.94
+7135,BDI,SUR,Performance Irrigation and Other Surgery,Performance Irrigation,Laparoscopic,All Other,Purewick catheter,chloraprep,0.87
+7139,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7174,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+7182,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+7194,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7262,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Syringe,Plastipak,safety wingset,0.72
+7286,BDI,UCC,Total BD UCC Other,Wound Drainage,Closed Wound Suction,Silicone Round Drains,Vacutainer tubes,purewick catheter,0.8
+7326,BLS,DS,Microbiology,Industrial Microbiology,Liquid Media - Industrial,Industrial Bottled Media,Chloraprep,vacutainer tubes,0.55
+7365,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7366,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7399,BLS,DS,Molecular Diagnostics,BD MAX,MAX C Diff,MAX C Diff,BACTEC vials,veritor assays,0.52
+7414,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+7475,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7537,BDM,MMS,CME,IV Pump Delivery,CME LVP Sets,Primary Admin,Plastipak,safety wingset,1.0
+7579,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7582,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7592,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7686,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+7710,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7718,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7760,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7809,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+7813,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+7818,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+7862,BDI,UCC,Total Acute Urology,Urological Drainage,Foley Trays,Criticore Disp-Foley Trays,Plastipak,purewick canister & tubing,0.58
+7863,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7888,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+7939,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+7971,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+7983,BLS,DS,Microbiology,Industrial Microbiology,Liquid Media - Industrial,Industrial Bottled Media,Chloraprep,vacutainer tubes,0.55
+8008,BDI,UCC,Total Home Care Sales,PureWick Home Care,PureWick Disposables Home Care,PureWick Female External,Purewick device,purewick catheter,0.7341666666666665
+8073,BDM,MDS,Hazardous Drug Solutions,Facilimix,Facilimix,Facilimix,Plastipak,purewick canister & tubing,0.39
+8089,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8093,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+8183,BDM,MDS,Advanced Access Devices,PICC Other,PICC Accessories,Micro-EZ,BACTEC vials,safety wingset,0.98
+8207,BDI,PI,BD PI Other,OEM,Textiles OEM,Textiles OEM,BACTEC vials,safety wingset,0.57
+8212,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8216,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8237,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+8253,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+8255,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+8302,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+8310,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8320,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8348,BDI,UCC,Endourology,Endourology Other,Urology Procedure Trays,Suprapubic Catheter,BACTEC vials,purewick canister & tubing,0.64
+8350,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+8364,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8406,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+8408,BDI,UCC,Total BD UCC Other,Wound Drainage,Channel Drains,Channel Drains,Vacutainer tubes,purewick catheter,0.63
+8438,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+8521,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+8600,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+8628,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Purewick catheter,safety wingset,0.46
+8651,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+8666,BLS,BDB,Clinical Instruments,FACSVia,FACSVia Options,FACSVia Options,Chloraprep,pyxis,0.6
+8692,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+8751,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8864,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+8876,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+8905,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+8997,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9014,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+9042,BDI,UCC,Total Acute Urology,Urological Drainage,Foley Trays,Criticore Disp-Foley Trays,Plastipak,purewick canister & tubing,0.58
+9168,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+9169,BLS,DS,Microbiology,Industrial Microbiology,Liquid Media - Industrial,Industrial Bottled Media,Chloraprep,vacutainer tubes,0.55
+9202,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+9289,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+9302,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9314,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9355,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+9424,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9484,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+9491,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9528,BDI,UCC,Total Home Care Sales,PureWick Home Care,PureWick Disposables Home Care,PureWick Female External,Purewick device,purewick catheter,0.7341666666666665
+9549,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+9598,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+9636,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9686,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+9807,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+9871,BDI,SUR,Hernia,Ventral,Lap Ventral,Sepramesh IP,Veritor Assays,powerport,0.66
+9913,BDI,SUR,Hernia,Ventral,Lap Ventral,Sepramesh IP,Veritor Assays,powerport,0.66
+9942,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+9969,BLS,DS,Microbiology,Industrial Microbiology,Plated Media - Industrial,Refrigerated Plates,Plastipak,vacutainer tubes,0.6
+10053,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+10059,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+10095,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Syringe,Plastipak,safety wingset,0.72
+10127,BDM,MMS,CME,POC Systems,CME DUAL CH TWIN - Placement,Drug Infusion - Placement,Pyxis,purewick device,0.75
+10132,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+10150,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+10177,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+10178,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+10476,BDI,PI,Peripheral Vascular Disease,Venous,Liverty - Kits,Liverty,Purewick canister & tubing,powerport,0.35
+10497,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+10520,BDI,UCC,Total Acute Urology,Urological Drainage,Other Urology,Hand Help Temp/Miscellaneous,Powerport,purewick canister & tubing,0.78
+10586,BDM,MMS,Alaris System,Service,Alaris System Service Parts,POC Applications,Plastipak,safety wingset,0.74
+10591,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+10665,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+10700,BDI,SUR,Hernia,Ventral,Lap Ventral,Sepramesh IP,Veritor Assays,powerport,0.66
+10774,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+10779,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+10887,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+10926,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+10960,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+11021,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+11026,BLS,BDB,Clinical Instruments,FACSVia,FACSVia Options,FACSVia Options,Neopak,pyxis,0.6
+11101,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+11223,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+11421,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+11537,BLS,BDB,Clinical Instruments,FACSVia,FACSVia Options,FACSVia Options,Neopak,pyxis,0.6
+11591,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Vacutainer tubes,safety wingset,0.23
+11592,BLS,SM,Emerging Specimen Management,MiniDraw,MiniDraw,MiniDraw,Vacutainer tubes,safety wingset,0.23
+11641,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Veritor Assays,veritor device,0.59
+11718,BDI,SUR,Hernia,Groin Hernia,Groin Open,Adhesix,PowerPort,veritor assays,0.58
+11740,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+11831,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+11963,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Vacutainer tubes,bactec fx machine,0.46
+12049,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+12080,BDI,UCC,Total Acute Urology,Urological Drainage,Foley Trays,Criticore Disp-Foley Trays,Plastipak,purewick canister & tubing,0.58
+12110,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+12165,BDI,SUR,Hernia,Groin Hernia,Groin Open,Adhesix,PowerPort,veritor assays,0.58
+12225,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+12227,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+12310,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+12467,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+12516,BLS,BDB,Advanced Bioprocessing,Peptones,Peptones AO,AO Peptones,Safety Wingset,purewick canister & tubing,0.92
+12517,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+12528,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ,WavelinQ 4 Fr,Purewick catheter,powerport,0.67
+12665,BDI,SUR,Hernia,Ventral,Lap Ventral,Sepramesh IP,Veritor Assays,powerport,0.66
+12680,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+12691,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+12711,BDI,PI,Oncology,Biopsy Needles and Accessories,TREK,TREK,Veritor device,safety wingset,0.89
+12712,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+12731,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+12911,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hardware,PowerPort,pyxis,0.71
+13040,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+13069,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+13075,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Probes,Site Rite 9 Probes,Pyxis,purewick device,0.8
+13122,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+13130,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+13136,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,Chloraprep,pyxis,0.72
+13155,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Chloraprep,veritor device,0.59
+13258,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+13422,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+13504,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+13536,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Consoles - ISALES,Site Rite 9 Consoles,Pyxis,purewick device,0.78
+13589,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+13623,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+13664,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+13727,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+13838,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+14134,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+14234,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Accessories,Site Rite 9 Accessories,Purewick catheter,purewick device,0.85
+14315,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+14356,BLS,DS,Veritor Cov,Veritor Cov,Rapid Test Reader,Rapid Test Reader,Veritor Assays,veritor device,0.46
+14369,BDI,UCC,Total Acute Urology,Urological Drainage,Other Urology,Hand Help Temp/Miscellaneous,Powerport,purewick canister & tubing,0.78
+14427,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+14438,BDI,PI,Oncology,Vacuum Assisted,Encor Capital - Placement,Encor Enspire Capital - Placement,Purewick device,pyxis,0.43
+14452,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+14477,BDI,SUR,Hernia,Ventral,Lap Ventral,Sepramesh IP,Veritor Assays,powerport,0.66
+14509,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+14510,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+14512,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+14825,BDM,MMS,BD Nexus,POC Systems,BD Nexus S700 Pumps,BD Nexus SYP,Plastipak,purewick device,0.47
+14836,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ,WavelinQ 4 Fr,Purewick catheter,powerport,0.67
+14843,BDI,PI,Oncology,Vacuum Assisted,EleVation Capital,Elevation - Capital,Purewick device,safety wingset,0.58
+14946,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+15049,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+15188,BLS,BDB,Research Instruments,FACSVerse,FACSVerse Options,FACSVerse Options,Safety Wingset,pyxis,0.65
+15236,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+15316,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+15404,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+15452,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+15460,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+15576,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+15587,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+15592,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+15594,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,Purewick catheter,pyxis,0.72
+15627,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+15640,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+15891,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+15954,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+15978,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+16055,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+16089,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Purewick device,purewick catheter,0.35
+16153,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+16248,BDI,PI,Oncology,Catheter Group,Chronic CVC Catheters,Trifusion Apheresis Catheters,Veritor Device,safety wingset,1.0
+16271,BDI,UCC,Total Acute Urology,Urological Drainage,Foley Trays,Criticore Disp-Foley Trays,Plastipak,purewick canister & tubing,0.58
+16314,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+16349,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hardware,PowerPort,pyxis,0.71
+16387,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Accessories,Site Rite 9 Accessories,Plastipak,purewick device,0.85
+16453,BDM,MMS,Alaris Plus,IV Pump Delivery,Alaris Plus Syringe,Enteral,Veritor Assays,safety wingset,0.94
+16461,BLS,BDB,Research Instruments,FACSDiscover S8,FACSDiscover S8 Options,FACSDiscover S8 Options,Chloraprep,pyxis,0.67
+16585,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+16739,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+16826,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Powerport,purewick catheter,0.35
+17040,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+17140,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+17142,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+17661,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Neopak,pyxis,0.51
+17663,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+17687,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+17708,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Chloraprep,pyxis,0.51
+17719,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+17757,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+17772,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+17826,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+17973,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+18030,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+18104,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley NONCATALOG,Plastipak,safety wingset,0.97
+18143,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+18250,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+18252,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+18306,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+18370,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+18431,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+18452,BLS,BDB,Research Instruments,Accuri,Accuri Instrument,Accuri Instrument,PowerPort,pyxis,0.81
+18495,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+18613,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+18647,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+18828,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+18850,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+18928,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+19052,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Tunnelers,Pyxis,powerport,0.97
+19056,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+19223,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+19325,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+19366,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+19564,BLS,DS,Microbiology,Microbiology - PC Adjustment,Microbiology - PC Adjustment,Microbiology - PC Adjustment,Purewick device,pyxis,0.67
+19573,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Catheters,Crosser iQ Support Catheters,Purewick canister & tubing,safety wingset,0.54
+19604,BLS,BDB,Research Instruments,FACSAria,FACSAria Options,FACSAria Options,Purewick device,pyxis,0.59
+19667,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+19741,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+19793,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Plastipak,veritor device,0.59
+19801,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+19929,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+19984,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Purewick device,powerport,0.42
+20126,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+20128,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+20135,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+20168,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+20212,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+20216,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+20256,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+20257,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Accessories,Site Rite 9 Accessories,Plastipak,purewick device,0.85
+20260,BDM,MDS,Hazardous Drug Solutions,Rapid Detection,Readers,Readers,Veritor device,purewick canister & tubing,0.54
+20265,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+20357,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+20407,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+20484,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+20517,BDI,PI,Oncology,Biopsy Needles and Accessories,Core Needle Biopsy Capital - Placement,Magnum Capital - Placement,Powerport,safety wingset,0.83
+20563,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+20774,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+20890,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+20939,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+21055,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware Placement,Arctic Sun-Hardware Placement,Purewick device,pyxis,0.83
+21108,BDI,PI,Oncology,Vacuum Assisted,EleVation Capital,Elevation - Capital,Purewick device,safety wingset,0.58
+21115,BDM,MMS,BD Nexus,POC Systems,BD Nexus DS 700,BD Nexus Doxking Station,Powerport,purewick canister & tubing,0.3
+21238,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+21452,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+21518,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+21519,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+21817,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+21876,BLS,DS,Veritor Cov,Veritor Cov,Rapid Test Reader,Rapid Test Reader,Veritor Assays,veritor device,0.46
+21884,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+22057,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital - Placement,Rotarex Capital - Placement,Purewick canister & tubing,purewick device,0.58
+22061,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix ST,Veritor Assays,powerport,0.97
+22164,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+22176,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+22324,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley NONCATALOG,Plastipak,safety wingset,0.97
+22343,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+22578,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+22643,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+22648,BLS,BDB,Clinical Instruments,Lyse Wash Assistant,LWA Options,LWA Options,Neopak,pyxis,0.71
+22691,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+22773,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+22830,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+22860,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware,Arctic Sun-Hrdware Repl Parts,PowerPort,pyxis,0.72
+22956,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+22977,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Catheters,Crosser iQ Support Catheters,Purewick canister & tubing,safety wingset,0.54
+23028,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+23037,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+23402,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Catheters,Crosser iQ Catheters,Pyxis,safety wingset,0.67
+23456,BDM,MDS,Vascular Access Technologies,Sherlock,Sherlock Accessories,Sherlock Accessories,Purewick device,purewick catheter,0.65
+24228,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+24292,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Syringe Pump Accessories,Plastipak,purewick device,0.39
+24354,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+24360,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+24487,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Purewick device,bactec fx machine,0.46
+24615,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+24673,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+25246,BDM,MDS,Hazardous Drug Solutions,Texium Systems,Bag Access,Bag Access,Vacutainer tubes,purewick canister & tubing,0.99
+25417,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+25422,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Purewick device,powerport,0.42
+25443,BLS,BDB,Research Instruments,FACSAria,FACSAria Options,FACSAria Options,Purewick device,pyxis,0.59
+25611,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+25946,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+25949,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+26066,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Plastipak,veritor device,0.59
+26102,BLS,DS,Informatics,Informatics,Epicenter,Epicenter Hardware,Purewick device,pyxis,0.83
+26473,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+26621,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),PowerPort,veritor device,0.59
+26678,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+26878,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+26901,BDI,UCC,Total Home Care Sales,PureWick Home Care,PureWick Disposables Home Care,PureWick Female External,Purewick device,purewick catheter,0.7341666666666665
+27239,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+27241,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+27243,BLS,BDB,Single Cell Multiomics,SCM Reagents,BD Immune Repertoire Profiling Reagents (BD VDJ),TCR/BCR,Pyxis,bactec vials,0.76
+27245,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+27457,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+27458,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+27627,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+27716,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+27785,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+27894,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+27946,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Catheters,Crosser iQ Support Catheters,Purewick canister & tubing,safety wingset,0.54
+28757,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+28780,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Purewick device,purewick catheter,0.35
+28827,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+28845,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Purewick device,purewick catheter,0.35
+28850,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Catheters,Crosser iQ Support Catheters,Purewick canister & tubing,safety wingset,0.54
+28997,BLS,BDB,Research Instruments,FACSDiscover S8,FACSDiscover S8 Options,FACSDiscover S8 Options,Powerport,pyxis,0.67
+29031,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Purewick device,bactec fx machine,0.46
+29050,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+29279,BLS,DS,Veritor Cov,Veritor Cov,Rapid Test Reader,Rapid Test Reader,Purewick catheter,veritor device,0.46
+29320,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+29327,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Pyxis,bactec fx machine,0.46
+29596,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+30019,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+30075,BLS,DS,Microbiology,ID/AST,Phoenix AP Instr - Sale,Phoenix AP Sales,Pyxis,bactec fx machine,0.53
+30457,BDI,PI,Peripheral Vascular Disease,Venous,Venclose Captial,Venclose Capital,Pyxis,safety wingset,0.38
+30820,BLS,BDB,Clinical Instruments,Other Instrument Revenue (Clinical),Other Instrument Revenue (Clinical),Other Instrument Revenue (Clinical),Pyxis,vacutainer tubes,0.59
+31101,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Plastipak,purewick catheter,0.35
+31148,BDM,MDS,Vascular Access Technologies,Prevue,Prevue Accessories,Prevue II Accessories,Plastipak,purewick catheter,0.35
+31220,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+31225,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+31256,BLS,DS,Microbiology,ID/AST,Phoenix AP Instr - Plcmt,Phoenix AP Placement,Pyxis,bactec fx machine,0.46
+31327,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+31511,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Veritor device,safety wingset,0.46
+31643,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+31680,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+32162,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Purewick device,bactec fx machine,0.46
+32255,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+32661,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+32984,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+33063,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Vacutainer tubes,veritor device,0.59
+33113,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Purewick catheter,veritor device,0.59
+33123,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+33130,BLS,DS,Molecular Diagnostics,BD COR,BD COR GX/MX Instr - Plcmt,BD COR GX/MX Instr - Plcmt,Pyxis,rowa,0.55
+33484,BLS,BDB,Research Reagents,Research Core Cobalt,Cobalt Blue OptiBuild,RB670 OptiBuild,Vacutainer tubes,bactec vials,0.98
+33789,BLS,BDB,Clinical Instruments,Lyse Wash Assistant,LWA Options,LWA Options,Neopak,pyxis,0.71
+33819,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+34187,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Syringe Pump Accessories,Plastipak,purewick device,0.39
+34400,BLS,BDB,Research Instruments,FACSDiscover S8,FACSDiscover S8 Options,FACSDiscover S8 Options,Purewick Device,pyxis,0.67
+34429,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+34432,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Ultra Capital,Pyxis,safety wingset,0.39
+34434,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+34448,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+34468,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+35011,BDM,MMS,Alaris System,DI Inst,Alaris System Accessories - DI Inst,Other,Veritor Assays,safety wingset,0.44
+35199,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Plastipak,safety wingset,0.3
+35247,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+35250,BDI,UCC,Targeted Temperature Management,Arctic Sun,Arctic Sun-Hardware Placement,Arctic Sun-Hardware Placement,Purewick device,pyxis,0.83
+35307,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+35325,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+35328,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+35351,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+35353,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+36115,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+36138,BLS,BDB,Research Instruments,FACSAria,FACSAria Options,FACSAria Options,PowerPort,pyxis,0.59
+36141,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Veritor device,safety wingset,0.46
+36146,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+36152,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat LX,Veritor Assays,powerport,0.74
+36241,BLS,DS,Microbiology,Other Microbiology,All Other Microbiology,Meningitis,Veritor Assays,vacutainer tubes,0.5
+36805,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+37082,BDM,MMS,CME,POC Systems,CME BODYGUARD C VISION - Placement,Drug Infusion - Placement,Pyxis,purewick device,0.75
+37102,BLS,BDB,Research Instruments,FACSVerse,FACSVerse Options,FACSVerse Loader,Safety Wingset,pyxis,0.52
+37137,BLS,BDB,Single Cell Multiomics,SCM Other,SCM Other,SCM Other,Safety Wingset,bactec vials,0.45
+37151,BDI,PI,End Stage Kidney Disease,Other Surgical ESKD,Other Surgical,Patches,Plastipak,powerport,0.65
+37201,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+37465,BDM,MDS,Vascular Access Technologies,Site-Rite,Site-Rite Consoles - ISALES,Legacy Site Rite,Purewick catheter,purewick device,0.97
+37877,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+37994,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Plastipak,veritor device,0.59
+38047,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+38060,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Purewick device,bactec fx machine,0.46
+39080,BDM,MMS,Alaris System,POC Systems,Alaris System Accessories - POC,Accessories,Purewick canister & tubing,powerport,0.33
+39144,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+39145,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+39215,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+39219,BLS,DS,Microbiology,ID/AST,BioTyper Reagents/Accessories,BioTyper Reagents/Accessories,Purewick Device,bactec vials,0.93
+39288,BDM,MMS,CME,POC Systems,CME BODYGUARD C VISION - Placement,Drug Infusion - Placement,Pyxis,purewick device,0.75
+39352,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+39360,BDI,SUR,Hernia,Complex Abdominal Wall Reconstruction,Phasix,Phasix Flat Mesh,Veritor Assays,powerport,0.7
+40463,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+40736,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+40825,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+40831,BLS,BDB,Single Cell Multiomics,SCM Reagents,BD Immune Repertoire Profiling Reagents (BD VDJ),TCR/BCR,Pyxis,bactec vials,0.76
+40856,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+40857,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+40879,BLS,DS,Microbiology,ID/AST,BioTyper Reagents/Accessories,BioTyper Reagents/Accessories,Safety Wingset,bactec vials,0.93
+41711,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+42283,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+42467,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+42509,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+42520,BLS,DS,Microbiology,ID/AST,Phoenix 100 Instr - Sale,Phoenix 100 - Sales,BACTEC FX machine,pyxis,0.45
+42568,BLS,BDB,Research Instruments,FACSAria,FACSAria Options,FACSAria Options,Powerport,pyxis,0.59
+42595,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+42624,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+43792,BDI,UCC,Endourology,Stone Disposables,Laser Technology,Holmium Laser Fibers,Purewick canister & tubing,purewick catheter,0.64
+43835,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),PowerPort,veritor device,0.59
+43900,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Plastipak,veritor device,0.59
+44346,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+44456,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+44492,BDI,PI,Peripheral Vascular Disease,Venous,Venclose Captial,Venclose Capital,Pyxis,safety wingset,0.38
+44533,BLS,DS,Molecular Diagnostics,BD COR,All Other BD COR,BD COR Instrument Other,POWERPORT,plastipak,0.46
+44537,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Vacutainer tubes,safety wingset,0.3
+44539,BLS,BDB,Research Reagents,Custom Research Reagents,Cobalt - Customs,Cobalt - Customs,Pyxis,bactec vials,0.81
+44560,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Pyxis,safety wingset,0.3
+44586,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+44588,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+44591,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+44598,BLS,BDB,Clinical Instruments,Sample Prep Assistant,SPA Options,SPA Options,Plastipak,pyxis,0.5
+44599,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+44601,BLS,BDB,Single Cell Multiomics,SCM Instruments,Rhapsody Express,Rhapsody Express Package,Safety Wingset,pyxis,0.69
+44608,BLS,BDB,Research Reagents,Custom Research Reagents,Cobalt - Customs,Cobalt - Customs,Pyxis,bactec vials,0.81
+44615,BLS,BDB,Single Cell Multiomics,SCM Reagents,BD Immune Repertoire Profiling Reagents (BD VDJ),TCR/BCR,Pyxis,bactec vials,0.76
+44673,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+44682,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+47065,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+47236,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley NONCATALOG,Plastipak,safety wingset,0.97
+47264,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Chloraprep,bactec fx machine,0.46
+47278,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+47290,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Veritor device,powerport,0.6
+47296,BDM,MDS,Hazardous Drug Solutions,Facilimix,Facilimix,Facilimix,Safety Wingset,purewick canister & tubing,0.39
+47335,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+47370,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+47417,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+47578,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+47586,BLS,BDB,Research Reagents,Custom Research Reagents,Cobalt - Customs,Cobalt - Customs,Pyxis,bactec vials,0.81
+47587,BLS,BDB,Research Reagents,Custom Research Reagents,Cobalt - Customs,Cobalt - Customs,Pyxis,bactec vials,0.81
+47591,BLS,BDB,Research Reagents,Custom Research Reagents,Cobalt - Customs,Cobalt - Customs,Pyxis,bactec vials,0.81
+47592,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+47622,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+47702,BLS,BDB,Single Cell Multiomics,SCM Other,SCM Other,SCM Other,Safety Wingset,bactec vials,0.45
+47704,BLS,BDB,Single Cell Multiomics,SCM Other,SCM Other,SCM Other,Safety Wingset,bactec vials,0.45
+47722,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+47764,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Pyxis,safety wingset,0.3
+48022,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+48234,BDI,UCC,Total Home Care Sales,PureWick Home Care,PureWick Disposables Home Care,PureWick Female External,Purewick device,purewick catheter,0.7341666666666665
+48825,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Pyxis,safety wingset,0.3
+50208,BLS,BDB,Research Reagents,Research Core Cobalt,Cobalt YG OptiBuild,RY775 OptiBuild,Vacutainer tubes,bactec vials,0.98
+51651,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+51942,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+51971,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+52064,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+52068,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+52072,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+52073,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+52123,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+52127,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+52785,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+52815,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+52816,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+52817,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+52858,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+52945,BLS,DS,Lab Automation,Lab Automation,InoqulA Talon Instr - Plcmt,InoqulA Talon Instr - Plcmt,Pyxis,rowa,0.65
+52956,BLS,DS,Cancer,Cytology,FocalPoint Instr - Plcmt,FocalPoint GS Placement,Pyxis,rowa,0.75
+52961,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+52966,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53000,BLS,BDB,Clinical Instruments,FACSDuet,FACSDuet,FACSDuet,Pyxis,rowa,0.51
+53009,BLS,SM,Specimen Management Other,Specimen Management Other,Specimen Management Other,All Other PAS,Pyxis,safety wingset,0.3
+53088,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53127,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53171,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53189,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53204,BDI,SUR,Performance Irrigation and Other Surgery,Tepha OEM,Tepha OEM,Tepha OEM,Purewick catheter,chloraprep,0.59
+53213,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53227,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53257,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53261,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Purewick canister & tubing,pyxis,0.51
+53274,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53294,BLS,BDB,Clinical Reagents,Cytognos Reagents,Cytognos Other Reagents,Cytognos THIRD-PARTY REAGENTS,Chloraprep,bactec vials,0.61
+53302,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53316,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+53339,BDI,PI,Peripheral Vascular Disease,Venous,Venclose Captial,Venclose Capital,Pyxis,safety wingset,0.38
+53362,BDM,MDS,IPD OEM,IVA OEM,IVA OEM Others,Temp Management,Pyxis,plastipak,0.58
+53434,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53444,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53489,BDM,MDS,Hazardous Drug Solutions,Facilimix,Facilimix,Facilimix,Safety Wingset,purewick canister & tubing,0.39
+53550,BLS,BDB,Research Instruments,Other Instrument Revenue (Research),Other Instrument Revenue (Research),Other Instrument Revenue (Research),Pyxis,veritor device,0.59
+53567,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+53573,BDM,MMS,Alaris Plus,POC Systems,Alaris Plus TIVA Pump,TIVA,Pyxis,purewick device,0.88
+53578,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53642,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53652,BDM,MDS,IPD OEM,IVA OEM,IVA OEM Others,Temp Management,Pyxis,plastipak,0.58
+53678,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+53684,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53686,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53709,BLS,BDB,Clinical Reagents,Cytognos Reagents,Cytognos Other Reagents,Cytognos THIRD-PARTY REAGENTS,Chloraprep,bactec vials,0.61
+53719,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53766,BLS,DS,Microbiology,Industrial Microbiology,DCM,Selective & Diff Media,Safety Wingset,bactec vials,0.94
+53848,BLS,BDB,Single Cell Multiomics,SCM Reagents,BD Immune Repertoire Profiling Reagents (BD VDJ),TCR/BCR,Pyxis,bactec vials,0.76
+53856,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+53889,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53922,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53933,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+53937,BLS,DS,Microbiology,ID/AST,Misc ID and AST,MICRONAUT,BACTEC vials,vacutainer tubes,0.61
+53989,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54014,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+54029,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+54030,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+54031,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+54032,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+54033,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Ultra Capital,Pyxis,safety wingset,0.39
+54034,BDI,PI,Oncology,Vacuum Assisted,Finesse Capital,Finesse Capital,Safety Wingset,purewick device,0.54
+54035,BDI,PI,Oncology,Vacuum Assisted,Finesse Capital,Finesse Capital,Safety Wingset,purewick device,0.54
+54045,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54046,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54047,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54048,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54049,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54050,BDI,PI,End Stage Kidney Disease,Fabrics and Meshes,Fabrics,Fabrics,Veritor Assays,powerport,0.5
+54051,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+54054,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+54055,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Virtual Bundles,Purewick canister & tubing,powerport,0.79
+54064,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Capital,Rotarex Capital,Purewick device,purewick catheter,0.34
+54065,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Capital,Crosser Capital,Purewick device,safety wingset,0.62
+54066,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Capital,Crosser Capital,Purewick device,safety wingset,0.62
+54067,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Capital,Crosser Capital,Purewick device,safety wingset,0.62
+54068,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Crosser Capital,Crosser Capital,Purewick device,safety wingset,0.62
+54105,BDM,MDS,Flush & Caps,Prefilled Flush Devices -Conventional,PosiFlush Safescrub,Posiflush - SafeScrub,Neopak,plastipak,0.46
+54361,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54384,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54385,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54386,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54396,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley,Plastipak,safety wingset,0.97
+54416,BDM,MMS,Alaris System,Service,Alaris System Service Parts,Medley NONCATALOG,Plastipak,safety wingset,0.97
+54431,BDM,MMS,CME,POC Systems,CME BODYGUARD C VISION - Placement,Drug Infusion - Placement,Pyxis,purewick device,0.75
+54579,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+54647,BDI,SUR,Hernia,Groin Hernia,Plugs,Plugs,Veritor Assays,powerport,0.87
+54683,BDI,PI,Oncology,Vacuum Assisted,Vacora Probes,Vacora Precision,PowerPort,safety wingset,0.5
+54689,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+54742,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+54746,BDI,SUR,Infection Prevention - Surgical,Hair Removal,Clippers,Clipper Blades,Powerport,veritor device,0.59
+54785,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+54828,BDI,PI,Oncology,CHRONIC DRAINAGE,PleurX,PLEURX ACCESSORIES,Purewick canister & tubing,powerport,0.34
+54857,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Chloraprep,pyxis,0.51
+54874,BLS,DS,Microbiology,ID/AST,BioTyper Reagents/Accessories,BioTyper Reagents/Accessories,Plastipak,bactec vials,0.93
+54951,BLS,BDB,Clinical Reagents,Cytognos Reagents,Cytognos Other Reagents,Cytognos THIRD-PARTY REAGENTS,Chloraprep,bactec vials,0.61
+54961,BDI,UCC,Total Acute Urology,Urological Drainage,Other Collection Devices,Other Latex Free Tray with Bag,Plastipak,purewick canister & tubing,0.76
+55002,BLS,DS,Lab Automation,Lab Automation,All Other Lab Automation Instruments,Other Instr- Sale,Plastipak,bactec fx machine,0.46
+55029,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+55031,BDM,MDS,IV Access,IVA Interlink,IVA Accessories - Interlink,Syringe with Cannula,Plastipak,vacutainer tubes,0.57
+55050,BDI,UCC,Total Home Care Sales,Urology Home Care,Leg Bags,Leg Bags,Purewick catheter,purewick canister & tubing,0.52
+55061,BLS,BDB,Research Instruments,LSR/Fortessa,LSR/Fortessa Options,LSR/Fortessa Options,Pyxis,rowa,0.65
+55119,BDI,PI,Peripheral Vascular Disease,Venous,Venclose,Venclose Accessories,Safety Wingset,powerport,0.6
+55191,BLS,DS,Microbiology,ID/AST,Phoenix 100 Instr - Sale,Phoenix 100 - Sales,BACTEC FX machine,pyxis,0.45
+55217,BDI,UCC,Total Acute Urology,Fecal Drainage,Dignishield,Dignishield,Purewick catheter,purewick canister & tubing,0.54
+55228,BLS,BDB,Single Cell Multiomics,SCM Other,SCM Other,SCM Other,Safety Wingset,bactec vials,0.45
+55235,BLS,BDB,Research Instruments,FACSJazz,FACSJazz Instrument,FACSJazz Instrument,Pyxis,rowa,0.58
+55251,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+55263,BDI,PI,Peripheral Vascular Disease,PAD Mechanical,Rotarex Catheters,Rotarex Catheters,Purewick catheter,safety wingset,0.53
+55283,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+55356,BDI,PI,Oncology,Vacuum Assisted,Encor Capital,Encor Enspire Capital,Pyxis,powerport,0.42
+55417,BLS,BDB,Clinical Instruments,FACSLyric,FACSLyric Instrument,FACSLyric Instrument Adjustment,Pyxis,rowa,0.64
+55428,BLS,BDB,Research Instruments,Accuri,Accuri Options,Accuri Options,Chloraprep,pyxis,0.51
+55448,BLS,BDB,Research Instruments,FACSAria,FACSAria Options,FACSAria Options,Powerport,pyxis,0.59
+55504,BDI,PI,End Stage Kidney Disease,Endo AVF,WavelinQ Capital,WavelinQ Capital,Purewick device,powerport,0.65
+55656,BDM,MMS,CME,POC Systems,CME BODYGUARD C VISION - Placement,Drug Infusion - Placement,Pyxis,purewick device,0.75
+55659,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+55678,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Neopak,safety wingset,0.46
+55765,BDI,PI,Oncology,Ports,Ports,Chronoflex Silk,Plastipak,powerport,0.7
+55772,BDI,PI,Oncology,Vacuum Assisted,Vacora Probes,Vacora 10G Needle,PowerPort,safety wingset,0.53
+55877,BLS,DS,Molecular Diagnostics,ProbeTec/Viper,All Other BD Viper,Viper Ancillary Equipment,Purewick catheter,safety wingset,0.46
+55997,BDI,PI,Oncology,Biopsy Needles and Accessories,Core Needle Biopsy,Other Biopsy Needles,BACTEC vials,safety wingset,0.99
+56124,BDM,PS,Prefillable Systems,Glass Container,Hypak for Biotech,SCF Needle,Hypak for Vaccine,hypak for antico,0.48
+56133,BDM,PS,Prefillable Systems,Glass Container,Hypak for Vaccine,SCF Luer PRTC,Hypak for Vaccine,hypak for antico,0.54
