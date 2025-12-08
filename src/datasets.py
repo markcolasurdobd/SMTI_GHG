@@ -5,7 +5,8 @@ from sklearn.model_selection import train_test_split
 def make_2024():
     # Make the 2024 dataset
     data = TrainData()
-    data.load_csv('./data/2024.csv')
+    data.load_csv('./data/2024_w_.csv')
+    keep_columns = ['']
     data.transform()
     data.remove_value('blank', data.X)
     data.remove_value('exclude', data.y)
