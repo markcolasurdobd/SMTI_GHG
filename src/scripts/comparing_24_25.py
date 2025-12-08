@@ -61,4 +61,4 @@ df25.loc[df25_unmatched.index, cat] = df25_unmatched[cat]
 df25.loc[df25_unmatched.index, ' COMMENTS '] = 'Classified by ML model'
 
 # Export results
-df25.to_csv('./results/2025_cat12_results.csv')
+df25.to_csv('./result/2025_cat12_results.csv')
