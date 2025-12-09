@@ -36,11 +36,10 @@ df25_unmatched = df25_inc[df25_inc[cat].isna()]
 
 # Classify unmatched rows based on trained model
 d25 = PredictData()
-d25.df = df25_unmatched
 X_columns = ['SEG', 'BU', 'Platform', 'Product Category', 'Product Line', 'Product Set']
-d25.X = d25.df[X_columns]
+d25.df = df25_unmatched
 d25.transform()
-
+]
 # Load models for inference
 # Load model
 model_path = r"C:\Users\10354191\OneDrive - BD\Projects\SMTI\GHG\models\model_24_cat12.pkl"
@@ -59,6 +58,7 @@ df25.loc[df25_inc.index, cat] = df25_inc[cat]
 df25.loc[df25_inc.index, ' COMMENTS '] = 'Matched by Material ID'
 df25.loc[df25_unmatched.index, cat] = df25_unmatched[cat]
 df25.loc[df25_unmatched.index, ' COMMENTS '] = 'Classified by ML model'
+df25[cat] = df25[cat].str.lower()
 
 # Export results
-df25.to_csv('./result/2025_cat12_results.csv')
+df25.to_csv('./results/2025_cat12_results_2.csv')

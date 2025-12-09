@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7c71c4-e3d0-430b-b50e-7fcb9fa97abf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/validation_results_21_24_balanced.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/validation_results_21_24_unbalanced.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/wrong.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/validation_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/validation_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2025_cat12_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/2025_cat12_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/comparing_24_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/comparing_24_25.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +67,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG\results" />
       <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG\src" />
       <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG\src\scripts" />
       <recent name="C:\Users\10354191\PycharmProjects\SMTI_GHG" />
