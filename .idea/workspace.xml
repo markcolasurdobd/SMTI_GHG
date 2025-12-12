@@ -6,17 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7c71c4-e3d0-430b-b50e-7fcb9fa97abf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/2025.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/2025.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cat_v_cat.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2024_cat11_report.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2024_cat12_report.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2025_cat12_results.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2025_cat12_results_2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/bactec.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/pyxis.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/rowa.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/comparing_24_25.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/match_and_model_simultaneous.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/match_and_model_simultaneous.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/training_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/training_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/material_id_v_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/validation_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/validation_script.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

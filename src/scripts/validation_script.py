@@ -5,14 +5,31 @@ import src.predicting as pred
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
-# Load and preprocess data
-df =  pd.read_csv('./data/2024_w_cat12.csv')
-exclude_rows = df[' COMMENTS '].str.contains('exclude', case = False, na = False)
-df_included = df[~exclude_rows]
+# Paths
+ref_path = r'./data/2024.csv'
+results_path = r'./results/2024_cat12_ff_report.csv'
+
+# Columns
+comm = ' COMMENTS '
+cat11 = 'CAT 11 (USE)'
+cat12 = 'CAT 12 (EoL)'
+y_col = [cat12]
+X_cols = ['SEG', 'BU', 'Business Unit', 'Sub BU', 'Sub Business Unit', 'Platform',
+                'Product Category ID', 'Product Category', 'Product Line ID',
+                'Product Set ID', 'Platform ID', 'Product Line', 'Product Set',
+                'Material Description', 'Product Subset ID', 'Product Subset']
+
+# Load data
+df =  pd.read_csv(ref_path)
+
+# Preprocess data
+df = df[~df[comm].str.contains('exclude', case = False, na = False)]
+df = df[~df[cat11].str.contains('exclude', case = False, na = False)]
+df = df[~df[cat12].str.contains('exclude', case = False, na = False)]
+
+#  Prepare data
 d24 = TrainData()
-X_cols = ['SEG', 'BU', 'Platform', 'Product Category', 'Product Line', 'Product Set']
-y_col = ['CAT 11 (USE)']
-d24.df = df_included[X_cols + y_col]
+d24.df = df[X_cols + y_col]
 d24.transform()
 
 # Split df into X and y
@@ -30,4 +47,4 @@ cr = classification_report(y_test, y_preds.preds, output_dict=True)
 
 # Save results
 df_report = pd.DataFrame(cr).transpose()
-df_report.to_csv('./results/2024_cat11_report.csv')
+df_report.to_csv(results_path)

@@ -91,9 +91,28 @@ tar.to_csv(results_path)
 
 
 
-# units = tar[unit]
-# units = units.str.strip()
-# units[units.str.contains('-')] = '0'
-# units = units.str.strip('(')
-# units = units.str.strip(')')
-# units = units.str.replace(',', '')
+pyxis_units = ref.loc[ref[cat11] == 'pyxis', ' FY 24 Actual Units ']
+pyxis_units = pyxis_units.dropna()
+units = pyxis_units
+units[56163] = '0'
+units = units.str.strip()
+units[units.str.contains('-')] = '0'
+units = units.str.strip('(')
+units = units.str.strip(')')
+units = units.str.replace(',', '')
+units = units.astype(int)
+
+# Try new mapping
+pssids = ref['Product Subset ID'].unique()
+pssid_cat11 = {}
+pssid_cat12 = {}
+for id in pssids:
+    nuni = ref.loc[ref['Product Subset ID'] == id, cat11].nunique()
+    if nuni == 1:
+        pssid_cat11[id] = ref.loc[ref['Product Subset ID'] == id, cat11].unique()[0]
+        pssid_cat12[id] = ref.loc[ref['Product Subset ID'] == id, cat12].unique()[0]
+
+for id in pssid_cat11:
+    if tar_unmatched['Product Subset ID'].str.contains(id).sum() >= 1:
+        tar_unmatched.loc[tar_unmatched['Product Subset ID'] == id, cat11] = pssid_cat11[id]
+        tar_unmatched.loc[tar_unmatched['Product Subset ID'] == id, cat12] = pssid_cat12[id]
